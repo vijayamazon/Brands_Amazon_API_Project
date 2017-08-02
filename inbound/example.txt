@@ -1,0 +1,2 @@
+sku	price	quantity	leadtime-to-ship
+168.030	39.99	1	1
